@@ -19,17 +19,17 @@ so you can make them stronger.
 
 ## 🧠 About Me
 
-- 👨‍🎓 Fresher in **Bachelor of Computer Applications**
-- 🔍 Interested in **Cybersecurity**, **Programming**, & **All Tech Domains**
-- 🎯 Career path: Exploring job oriented learning and psychology nerd
-- 🎨 Blend of **technical + creative** skills
+-  Fresher in **Bachelor of Computer Applications**
+-  Interested in **Cybersecurity**, **Programming**, & **All Tech Domains**
+-  Career path: Exploring job oriented learning and a psychology nerd
+-  Blend of **technical and creative** skills
 
 ---
 
 ## 🛠️ Skills & Tools
 
 ### 💻 Tech & Programming
-- 🐍 C, C++, Python  
+- 🐍 C, C++, Python, Javascript, HTML  
 - 🌐 Programming Languages (learning & experimenting)  
 - 🔐 Cybersecurity (beginner, growing daily)
 
