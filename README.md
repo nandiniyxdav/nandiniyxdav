@@ -6,7 +6,7 @@ so you can make them stronger.
 
 🎓 **BCA Student (2nd Semester)**  
 🔐 Learning **Cybersecurity** & **Programming Languages**  
-🧠 Curious about all the happening inside system (so fun tbh)
+🧠 Curious about all the happening inside system (so fun tbh, rarely)
 
 ---
 
@@ -14,15 +14,6 @@ so you can make them stronger.
 [Now or Never – Casper (Album)](https://open.spotify.com/album/2iJkrwXpyChhfeClyX7oov?si=gRUy0HohS42dfF8-tc0fng)
 
 > *Good music, better code.*
-
----
-
-## 🧠 About Me
-
--  Fresher in **Bachelor of Computer Applications**
--  Interested in **Cybersecurity**, **Programming**, & **All Tech Domains**
--  Career path: Exploring job oriented learning and a psychology nerd
--  Blend of **technical and creative** skills
 
 ---
 
@@ -39,15 +30,6 @@ so you can make them stronger.
 - ✍️ Prompt Engineering  
 
 ---
-
-## 🚀 Currently
-
-- 📚 Learning: Cybersecurity fundamentals & programming concepts  
-- 🧪 Exploring: Multiple domains to find my strongest fit  
-- 🎯 Goal: Strong fundamentals → real world impact *(I know, I will end up rich)* 
-
----
-
 ## 🌐 Connect With Me
 
 📧 **Email:** your-nixi.krishna@gmail.com  
