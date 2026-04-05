@@ -15,18 +15,13 @@ so you can make them stronger.
 > *Good music, better code.*
 
 ---
-
-## 🛠️ Skills & Tools
-
 ### 💻 Tech & Programming
 - 🐍 C, C++, Python, Javascript, HTML  
 - 🌐 Programming Languages (learning & experimenting)  
-- 🔐 Cybersecurity (beginner, growing daily)
 
 ### 🎨 Creative & Productivity
 - 🎨 Canva  
-- 🧩 Figma  
-- ✍️ Prompt Engineering  
+- 🧩 Figma    
 
 ---
 ## 🌐 Connect With Me
