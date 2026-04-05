@@ -4,7 +4,7 @@ so you can make them stronger.
 
 ## 🍀 Hi, I'm *nixi*
 
-🎓 **BCA Student (2nd Semester)**
+🎓 **BCA Student (2nd Semester)** 
 🧠 Curious about all the happening inside system (so fun tbh, rarely)
 
 ---
