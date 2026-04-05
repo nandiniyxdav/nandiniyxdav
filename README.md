@@ -2,10 +2,9 @@ Security isn’t about paranoia.
 It’s about understanding how things fail,
 so you can make them stronger.
 
-## 🍀 Hi, I'm *Nandini (aka nixi)*
+## 🍀 Hi, I'm *nixi*
 
-🎓 **BCA Student (2nd Semester)**  
-🔐 Learning **Cybersecurity** & **Programming Languages**  
+🎓 **BCA Student (2nd Semester)**
 🧠 Curious about all the happening inside system (so fun tbh, rarely)
 
 ---
